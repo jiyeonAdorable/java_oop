@@ -4,5 +4,6 @@ public class HelloGit {
 		System.out.println("1111111111111111111111111");
 		System.out.println("1111111111111111111111111");
 		System.out.println("1111111111111111111111111");
+		System.out.println("집에서 작업을 하였습니다...");
 	}
 }
